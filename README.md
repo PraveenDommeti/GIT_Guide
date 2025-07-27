@@ -1,2 +1,2 @@
 "# GIT_Guide" 
-Once a legend always a errupuku
+Once a legend always a legend
